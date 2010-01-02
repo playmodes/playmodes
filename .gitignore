@@ -1,0 +1,33 @@
+*.mode1v3
+*.pbxuser
+build/
+obj/
+*.o
+openFrameworks.a
+openFrameworksDebug.a
+openFrameworksUniversal.a
+*.app/
+
+#eclipse build folders
+#Mac OS X
+Debug Mac OS X
+Release Mac OS X
+
+#Linux
+Debug Linux
+Release Linux
+Debug Linux64
+Release Linux64
+Debug_Linux64
+Release_Linux64
+
+*.layout
+*.depend
+bin/clickToLaunch*
+bin/libs
+obj
+
+
+libs/openFrameworksCompiled/project/*/*.depend
+libs/openFrameworksCompiled/project/*/*.layout
+*~
